@@ -54,7 +54,7 @@ const BookingModal = ({ isOpen, onClose, onBook, venue }) => {
         setFormData({ customerName: '', email: '', phone: '', date: '', eventType: '' });
       }, 2000);
     } catch (err) {
-      setError(err.response?.data?.message || 'Failed to book venue');
+      setError(err.response?.data?.message || 'Failed to book venue you need to login first');
     } finally {
       setLoading(false);
     }

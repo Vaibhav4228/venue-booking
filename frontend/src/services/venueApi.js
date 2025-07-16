@@ -1,6 +1,10 @@
 import axios from 'axios';
 
-const API_URL = window.location.hostname === 'localhost' ? local : prod;
+
+const local = import.meta.env.VITE_API_LOCAL;
+const prod = import.meta.env.VITE_API_PROD;
+
+const API_URL = import.meta.env.VITE_API_PROD;
 
 const getToken = () => localStorage.getItem('token');
 
