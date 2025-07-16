@@ -6,6 +6,26 @@ I built the Mini Venue Booking Dashboard as a full-stack application to enable v
 And for Ideation part I alredy have that type feature in my presious project so I used that to building the ideation feature and also added the .env file showing purpose how i do that.
 
 ## How I Built It
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b2de7a7-fd2e-4fb2-9e70-fc0a9c97586d" />
+<img width="1909" height="878" alt="image" src="https://github.com/user-attachments/assets/96c6b1ce-f612-48d0-82d2-04e713f72464" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac8876aa-804d-4380-a84f-377b40f7ee44" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b70f700c-a46f-4a8a-8842-059ff05dcb1f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24848273-5394-4508-8d27-886a079109f3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0cac9b4c-ea25-4680-b91a-7e00028f6b40" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd4cc843-f191-43d2-97e9-1bf3afb8d3ca" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3cd2b51a-c3e1-4bf8-8ec1-fff5e0371bce" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed3fa5a0-79eb-4986-8664-e9b506316db0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f7e2936-bce3-4d33-b821-2b5346abacb9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/83942195-8762-4f60-98e8-e44c1ef93055" />
+
+
+
+
+
+
+
+
+
 
 ### Backend Development
 
